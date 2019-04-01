@@ -1,0 +1,12 @@
+*{padding:0;margin:0}
+.list{
+	z-index: 9999;
+	display: flex;
+}
+.list li{
+	flex:1;
+	list-style: none;
+}
+.active{
+	color:darkred;
+}
